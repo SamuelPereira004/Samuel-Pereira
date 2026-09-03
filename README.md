@@ -1,11 +1,49 @@
-# Sample Snack app
+# SSS APP
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+> Sistema de evolução pessoal com IA, gamificação e produtividade.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Sobre o projeto
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O **SSS APP** é um aplicativo focado em desenvolvimento pessoal, hábitos, metas e evolução contínua.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+O objetivo é reunir produtividade, saúde, finanças, estudos e inteligência artificial em uma única plataforma com uma experiência premium.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Tecnologias
+
+* React Native (Expo)
+* JavaScript
+* Firebase / Supabase (migração planejada)
+* GitHub
+
+## Funcionalidades planejadas
+
+* Perfil do usuário.
+* Sistema de XP e níveis.
+* Missões diárias.
+* Streak de hábitos.
+* Dashboard de evolução.
+* Assistente com IA.
+* Estatísticas e conquistas.
+
+## Estrutura do projeto
+
+```text
+assets/          Imagens e ícones
+components/      Componentes reutilizáveis
+App.js           Entrada do aplicativo
+firebaseConfig.js Configuração do backend
+```
+
+## Roadmap
+
+* [x] Repositório configurado.
+* [ ] Estrutura profissional do projeto.
+* [ ] Tema escuro premium.
+* [ ] Sistema de autenticação.
+* [ ] Integração com banco de dados.
+* [ ] Gamificação completa.
+* [ ] IA integrada.
+
+## Status
+
+**Em desenvolvimento.**
